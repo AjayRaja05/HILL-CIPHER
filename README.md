@@ -123,3 +123,4 @@ printf("Cipher Text: %s\n", cipherText);
 
 
 ## RESULT
+The Hill-cipher is successfully implemented.
