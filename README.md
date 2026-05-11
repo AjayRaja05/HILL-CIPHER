@@ -119,7 +119,8 @@ printf("Cipher Text: %s\n", cipherText);
 ```
 
 ## OUTPUT
-<img width="1914" height="1063" alt="image" src="https://github.com/user-attachments/assets/a0707403-72ca-4801-873e-e1fa849aead5" />
+<img width="1917" height="1018" alt="image" src="https://github.com/user-attachments/assets/2c5c2d0c-219a-437f-b6bb-4aa4df968faf" />
+
 
 
 ## RESULT
